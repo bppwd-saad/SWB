@@ -61,7 +61,6 @@ public class GameFramework extends Application  {
          
         stage.setTitle(appTitle);
         stage.setScene(scene);
-        stage.sizeToScene();
         stage.setResizable(false);
         stage.show(); 
  

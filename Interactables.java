@@ -19,6 +19,5 @@ public class Interactables extends Drawable{
 //    public boolean isTouching(){
 //        
 //    }
-
     
 }
